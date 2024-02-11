@@ -1,0 +1,13 @@
+{
+	"n_targets": 118489,
+	"n_bootstraps": 0,
+	"n_processed": 10308469,
+	"n_pseudoaligned": 9624335,
+	"n_unique": 3812135,
+	"p_pseudoaligned": 93.4,
+	"p_unique": 37.0,
+	"kallisto_version": "0.46.1",
+	"index_version": 10,
+	"start_time": "Sun Jun  4 22:11:36 2023",
+	"call": "/Users/sebastian/tools/kallisto/kallisto quant -i /Users/sebastian/tools/kallisto/mus_musculus/transcriptome.idx -o samples_exp2/R43 /Users/sebastian/rheuma_seq/rna-seq/43-22_S51_R1_001.fastq /Users/sebastian/rheuma_seq/rna-seq/43-22_S51_R2_001.fastq"
+}

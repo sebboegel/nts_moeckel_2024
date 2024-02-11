@@ -1,0 +1,13 @@
+run_accession strain  alias
+R9-22 BAFF-ko R9
+R10-22  BAFF-ko R10
+R19-22  BAFF-ko R19
+R20-22  BAFF-ko R20
+R21-22  BAFF-ko R21
+R22-22  BAFF-ko R22
+R38-22  WT  R38
+R39-22  WT  R39
+R40-22  WT  R40
+R42-22  WT  R42
+R43-22  WT  R43
+R44-22  WT  R44
